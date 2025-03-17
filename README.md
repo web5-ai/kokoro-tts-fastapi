@@ -1,6 +1,4 @@
-好的，我来创建一个详细的 README.md 文件：
 
-```markdown:/Users/zhangandy/Documents/work/code/temp/AI/TTS/kokoro/README.md
 # Kokoro TTS Service
 
 基于 Kokoro-82M-v1.1-zh 模型的中文语音合成服务。
@@ -170,4 +168,3 @@ Apache License 2.0
 - 初始版本发布
 - 支持基本的文本转语音功能
 - 支持多种中文女声音色
-```
